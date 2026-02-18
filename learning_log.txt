@@ -1,0 +1,9 @@
+Medical Physics Learning Log
+
+Date:
+Today I created my first GitHub repository.
+
+Future goals:
+- Learn Python
+- Work on DICOM analysis
+- Build ML model for gamma prediction
