@@ -11,3 +11,5 @@ Future goals:
 Progress update:
 I learned how to upload and edit files on GitHub.
 Next step: learn version history.
+Now I am using Git from my computer.
+This feels professional.
