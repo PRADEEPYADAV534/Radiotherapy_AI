@@ -7,3 +7,7 @@ Future goals:
 - Learn Python
 - Work on DICOM analysis
 - Build ML model for gamma prediction
+
+Progress update:
+I learned how to upload and edit files on GitHub.
+Next step: learn version history.
